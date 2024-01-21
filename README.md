@@ -38,3 +38,9 @@ Fig 2. To find SOP equations
 •	Graphics Processing: These operations involve multiplication of pixel values, vectors, and matrices, and array multipliers are used to accelerate these computations for real-time graphics rendering
 
 •	Cryptography: Array multipliers are used to perform the high-speed multiplication required in cryptographic operations, which are critical for secure communication and data protection in various applications, including secure communications, financial transactions, and data storage
+
+# References
+S. Shrivastava and A. Kaur, "Implementation and Analysis on 4x4 Multiplier using
+Genesys FPGA Board," 2023 International Conference on Sustainable Computing and
+Smart Systems (ICSCSS), Coimbatore, India, 2023, pp. 1174-1178, doi:
+10.1109/ICSCSS57650.2023.10169387.
