@@ -1,0 +1,4 @@
+Circuit: * C:\Users\geeth\OneDrive\Documents\LTspiceXVII\array_multiplier_tb.asc
+
+Fatal Error: Port(pin) count mismatch between the definition of subcircuit "array_multiplier" and instance: "xx1"
+The instance has more connection terminals than the definition.

@@ -1,0 +1,54 @@
+Circuit: * D:\clg stuff\4th sem\DVLSI\project\fulladdertb.asc
+
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 5e-010
+Changing Tseed to 5e-012
+Changing Tseed to 5e-009
+Changing Tseed to 5e-013
+Heightened Def Con from 3.33333e-009 to 3.33333e-009
+Heightened Def Con from 3.33333e-009 to 3.33333e-009
+Heightened Def Con from 3.33333e-009 to 3.33333e-009
+Heightened Def Con from 3.33333e-009 to 3.33333e-009
+Heightened Def Con from 3.33333e-009 to 3.33333e-009
+Heightened Def Con from 3.33333e-009 to 3.33333e-009
+Heightened Def Con from 3.33333e-009 to 3.33333e-009
+Heightened Def Con from 3.33333e-009 ++++++++++++++++++++to 3.33529e-009
+Heightened Def Con from 3.33529e-009 ++++++++++++++++++to 3.33553e-009
+Heightened Def Con from 3.33553e-009 ++++++++++++++++++to 3.33577e-009
+Heightened Def Con from 3.33577e-009 ++++++++++++++++++to 3.33602e-009
+Heightened Def Con from 3.33602e-009 ++++++++++++++++++to 3.33626e-009
+Heightened Def Con from 3.33626e-009 ++++++++++++++++++to 3.33651e-009
+Heightened Def Con from 3.33651e-009 ++++++++++++++++++to 3.33675e-009
+Heightened Def Con from 3.33675e-009 ++++++++++++++++++to 3.33678e-009
+Heightened Def Con from 3.33678e-009 ++++++++++++++++++to 3.33681e-009
+Heightened Def Con from 3.33681e-009 ++++++++++++++++++to 3.33684e-009
+Heightened Def Con from 3.33684e-009 ++++++++++++++++++to 3.33685e-009
+Heightened Def Con from 3.33685e-009 ++++++++++++++++++to 3.33685e-009
+Heightened Def Con from 3.33685e-009 ++++++++++++++++++to 3.33685e-009
+Heightened Def Con from 3.33685e-009 ++++++++++++++++++to 3.33686e-009
+Heightened Def Con from 3.33686e-009 ++++++++++++++++++to 3.33686e-009
+Heightened Def Con from 3.33686e-009 ++++++++++++++++++to 3.33689e-009
+Heightened Def Con from 3.33689e-009 ++++++++++++++++++to 3.33714e-009
+Heightened Def Con from 3.33714e-009 ++++++++++++++++++to 3.33738e-009
+Heightened Def Con from 3.33738e-009 ++++++++++++++++++to 3.33933e-009
+Heightened Def Con from 0.04 ++++++++++++++++++++++to 0.04
+Heightened Def Con from 0.04 +++++++++++++++++++++to 0.04
+
+Date: Mon Apr 24 08:35:44 2023
+Total elapsed time: 1.079 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 62447
+traniter = 62404
+tranpoints = 7172
+accept = 2776
+rejected = 4807
+matrix size = 31
+fillins = 12
+solver = Normal
+Thread vector: 32.8/17.8[4] 24.3/13.2[4] 4.6/3.5[2] 0.5/16.1[1]  2592/500
+Matrix Compiler1: 3.79 KB object code size  2.7/1.7/[0.7]
+Matrix Compiler2: 3.71 KB object code size  1.1/1.8/[0.7]
+

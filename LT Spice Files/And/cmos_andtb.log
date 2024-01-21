@@ -1,0 +1,25 @@
+Circuit: * D:\clg stuff\4th sem\DVLSI\project\cmos_andtb.asc
+
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 5e-010
+Changing Tseed to 5e-012
+Changing Tseed to 5e-009
+Changing Tseed to 5e-013
+
+Date: Tue Apr 18 23:13:20 2023
+Total elapsed time: 0.125 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4125
+traniter = 4111
+tranpoints = 1561
+accept = 1473
+rejected = 84
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1: 332 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 755 bytes object code size  0.1/0.1/[0.1]
+

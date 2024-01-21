@@ -1,0 +1,34 @@
+Circuit: * D:\clg stuff\4th sem\DVLSI\project\array_multiplier_tb.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Changing Tseed to 5e-010
+Changing Tseed to 5e-012
+Changing Tseed to 5e-009
+Changing Tseed to 5e-013
+Heightened Def Con from 3.37164e-009 to 3.37164e-009
+Heightened Def Con from 3.37164e-009 +++++++++++++++++++++++to 5e-009
+Heightened Def Con from 5e-009 +++++++++++++++++++++++to 5.1e-009
+Heightened Def Con from 5.1e-009 +++++++++++++++++++++++to 6.1e-009
+Heightened Def Con from 6.1e-009 +++++++++++++++++++++++to 7.1e-009
+Heightened Def Con from 7.1e-009 +++++++++++++++++++++++to 8.1e-009
+Heightened Def Con from 8.1e-009 +++
