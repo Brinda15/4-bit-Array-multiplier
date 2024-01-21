@@ -32,6 +32,9 @@ Fig 2. To find SOP equations
 
 # Applications
 •	Arithmetic Operations: Array multipliers are used in arithmetic units of microprocessors and digital signal processors to perform multiplication operations in various computations, such as in floating-point arithmetic, fixed-point arithmetic and integer arithmetic
+
 •	Digital Signal Processing: Array multipliers play a crucial role in DSP applications, such as filtering, convolution, fast Fourier transform , and other signal processing operations
+
 •	Graphics Processing: These operations involve multiplication of pixel values, vectors, and matrices, and array multipliers are used to accelerate these computations for real-time graphics rendering
+
 •	Cryptography: Array multipliers are used to perform the high-speed multiplication required in cryptographic operations, which are critical for secure communication and data protection in various applications, including secure communications, financial transactions, and data storage
