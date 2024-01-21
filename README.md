@@ -1,1 +1,4 @@
 # 4-4-Array-multiplier
+There are 2 parts to this project. The first is the simulation of a 8x8 array multiplier on LT Spice, which was done starting from making the required logic gates using CMOS logic. The second part included writing assembly language code suited for a single cycle RISC-V processor on the RIPES simulator for a 4x4 array multiplier.
+
+The multiplier circuit is based on the add shift algorithm. The main advantage of the array multiplier is it’s simple in design and regular in shape. In the add shift algorithm first the partial product is calculated using and gates. Then for the summation full adders and half adders are used before which the partial products are shifted according to their bit orders. For a n x n array multiplier, n^2 and gates, n(n-2) full adders and n half adders are used. In a 4x4 array multiplier there are 8 inputs and 8 outputs, and it uses 16 and gates, 8 full adders, and 4 half adders.
