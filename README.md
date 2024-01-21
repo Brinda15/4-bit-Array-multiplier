@@ -23,8 +23,10 @@ P7 = Cout
 
 
 ![image](https://github.com/Brinda15/4-4-Array-multiplier/assets/113205171/5bfc7e71-d536-4fec-bd33-46ac09bec4e1)
+
 Fig 1. Ciruit diagram of 4 bit array multiplier
 
 ![image](https://github.com/Brinda15/4-4-Array-multiplier/assets/113205171/1597a917-60c2-44eb-a187-1c3d89af9bb9)
+
 Fig 2. To find SOP equations
 
